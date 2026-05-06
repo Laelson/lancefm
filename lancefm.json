@@ -91,8 +91,14 @@
   "schedule": [
     {
       "day": "Segunda",
-      "program": "Madrugada Lance",
-      "time": "00:00 - 06:59",
+      "program": "Madrugada Com Você",
+      "time": "00:00 - 04:59",
+      "host": "Automático"
+    },
+    {
+      "day": "Segunda",
+      "program": "Sertaoneja",
+      "time": "05:00 - 06:59",
       "host": "Automático"
     },
     {
@@ -109,9 +115,9 @@
     },
     {
       "day": "Segunda",
-      "program": "Esporte",
+      "program": "Whatsapp",
       "time": "12:00 - 12:59",
-      "host": "Poderosa"
+      "host": "Automático"
     },
     {
       "day": "Segunda",
@@ -121,7 +127,7 @@
     },
     {
       "day": "Segunda",
-      "program": "Programa Sertanejo",
+      "program": "Coração Sertanejo",
       "time": "16:00 - 18:59",
       "host": "Automático"
     },
@@ -133,8 +139,14 @@
     },
     {
       "day": "Segunda",
-      "program": "Noite Lance",
-      "time": "20:00 - 23:59",
+      "program": "Arena Universitária",
+      "time": "20:00 - 21:59",
+      "host": "Automático"
+    },
+    {
+      "day": "Segunda",
+      "program": "Whatsapp",
+      "time": "22:00 - 23:59",
       "host": "Automático"
     }
   ],
