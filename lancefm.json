@@ -1,1 +1,118 @@
+```json
+{
+  "app": {
+    "name": "Rede Lance FM",
+    "version": "1.0.0",
+    "main_station": "Formosa 98.1",
+    "logo": "https://raw.githubusercontent.com/Laelson/lancefm/refs/heads/main/logo_lancefm.jpeg"
+  },
+
+  "streams": [
+    {
+      "name": "Lance FM",
+      "city": "Formosa",
+      "frequency": "98.1",
+      "stream_url": "https://ssl1.transmissaodigital.com:20316/stream",
+      "is_main": true
+    },
+    {
+      "name": "Lance FM",
+      "city": "Niquelândia",
+      "frequency": "87.9",
+      "stream_url": "https://ssl1.transmissaodigital.com:20383/stream"
+    },
+    {
+      "name": "Lance FM",
+      "city": "Itumbiara",
+      "frequency": "87.9",
+      "stream_url": "https://ssl1.transmissaodigital.com:20412/stream"
+    },
+    {
+      "name": "Lance FM",
+      "city": "Simolândia",
+      "frequency": "87.9",
+      "stream_url": "https://ssl1.transmissaodigital.com:20404/stream"
+    },
+    {
+      "name": "Lance FM",
+      "city": "Valparaíso",
+      "frequency": "87.9",
+      "stream_url": "https://ssl1.transmissaodigital.com:20413/stream"
+    }
+  ],
+
+  "video": {
+    "title": "TV Lance FM",
+    "url": "https://6836041ea1117.streamlock.net:443/8112/8112/playlist.m3u8"
+  },
+
+  "social": {
+    "facebook": "https://facebook.com/",
+    "instagram": "https://instagram.com/",
+    "youtube": "https://youtube.com/",
+    "tiktok": "https://tiktok.com/",
+    "site": "https://lancefm.com.br"
+  },
+
+  "contact": {
+    "phone": "+55 61 0000-0000",
+    "whatsapp": "5561000000000",
+    "email": "contato@lancefm.com.br",
+    "address": "Formosa - GO"
+  },
+
+  "presenters": [
+    {
+      "name": "Locutor 1",
+      "program": "Manhã Lance FM",
+      "photo": "https://via.placeholder.com/300",
+      "schedule": "Seg a Sex - 08:00 às 10:00"
+    },
+    {
+      "name": "Locutor 2",
+      "program": "Tarde Musical",
+      "photo": "https://via.placeholder.com/300",
+      "schedule": "Seg a Sex - 14:00 às 16:00"
+    }
+  ],
+
+  "schedule": [
+    {
+      "day": "Segunda",
+      "program": "Manhã Lance FM",
+      "time": "08:00 - 10:00",
+      "host": "Locutor 1"
+    },
+    {
+      "day": "Segunda",
+      "program": "Tarde Musical",
+      "time": "14:00 - 16:00",
+      "host": "Locutor 2"
+    }
+  ],
+
+  "news": [
+    {
+      "title": "Lance FM expande cobertura",
+      "description": "Nova cidade passa a integrar a rede.",
+      "image": "https://via.placeholder.com/600",
+      "link": "https://lancefm.com.br/noticia1",
+      "date": "2026-05-05"
+    },
+    {
+      "title": "Programação especial",
+      "description": "Confira novidades da grade semanal.",
+      "image": "https://via.placeholder.com/600",
+      "link": "https://lancefm.com.br/noticia2",
+      "date": "2026-05-04"
+    }
+  ],
+
+  "metadata": {
+    "enabled": true,
+    "type": "icy",
+    "fields": ["title", "artist"]
+  }
+}
+```
 
