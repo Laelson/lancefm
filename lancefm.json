@@ -65,19 +65,27 @@
     {
       "name": "Fábio Jr.",
       "program": "Programa Café Com Notícias.",
-      "photo": "https://via.placeholder.com/300",
+      "photo": "https://raw.githubusercontent.com/Laelson/lancefm/refs/heads/main/fabio.jpeg
+",
+      "schedule": "Seg a Sex - 07:00 às 08:59"
+    },
+    {
+      "name": "Dr Frederico Micheletto",
+      "program": "Programa Café Com Notícias.",
+      "photo": "https://raw.githubusercontent.com/Laelson/lancefm/refs/heads/main/fred.jpeg
+",
       "schedule": "Seg a Sex - 07:00 às 08:59"
     },
     {
       "name": "Alan Jorge",
       "program": "Show da Lance",
-      "photo": "https://via.placeholder.com/300",
+      "photo": "https://raw.githubusercontent.com/Laelson/lancefm/refs/heads/main/alan.jpeg",
       "schedule": "Seg a Sex - 09:00 às 11:59"
     },
     {
       "name": "Poderosa",
       "program": "Programa Poderosa é Show",
-      "photo": "https://via.placeholder.com/300",
+      "photo": "https://raw.githubusercontent.com/Laelson/lancefm/refs/heads/main/poderosa.jpeg",
       "schedule": "Seg a Sex - 13:00 às 15:59"
     }
   ],
@@ -85,15 +93,51 @@
   "schedule": [
     {
       "day": "Segunda",
-      "program": "Manhã Lance FM",
-      "time": "08:00 - 10:00",
-      "host": "Locutor 1"
+      "program": "Madrugada Lance",
+      "time": "00:00 - 06:59",
+      "host": "Automático."
     },
     {
       "day": "Segunda",
-      "program": "Tarde Musical",
-      "time": "14:00 - 16:00",
-      "host": "Locutor 2"
+      "program": "Programa Café Com Notícias",
+      "time": "07:00 - 08:59",
+      "host": "Fábio Jr."
+    },
+    {
+      "day": "Segunda",
+      "program": "Show da Lance",
+      "time": "09:00 - 11:59",
+      "host": "Alan Jorge"
+    },
+    {
+      "day": "Segunda",
+      "program": "Esporte",
+      "time": "12:00 - 12:59",
+      "host": "Poderosa"
+    },
+    {
+      "day": "Segunda",
+      "program": "Programa Poderosa é show",
+      "time": "13:00 - 15:59",
+      "host": "Poderosa"
+    },
+    {
+      "day": "Segunda",
+      "program": "Programa Sertanejo",
+      "time": "16:00 - 18:59",
+      "host": "Automático",
+    },
+    {
+      "day": "Segunda",
+      "program": "A Voz do Brasil",
+      "time": "19:00 - 19:59",
+      "host": "Agencia Nacional"
+    },
+    {
+      "day": "Segunda",
+      "program": "Noite Lance",
+      "time": "20:00 - 23:59",
+      "host": "Automático"
     }
   ],
 
