@@ -63,16 +63,22 @@
 
   "presenters": [
     {
-      "name": "Locutor 1",
-      "program": "Manhã Lance FM",
+      "name": "Fábio Jr.",
+      "program": "Programa Café Com Notícias.",
       "photo": "https://via.placeholder.com/300",
-      "schedule": "Seg a Sex - 08:00 às 10:00"
+      "schedule": "Seg a Sex - 07:00 às 08:59"
     },
     {
-      "name": "Locutor 2",
-      "program": "Tarde Musical",
+      "name": "Alan Jorge",
+      "program": "Show da Lance",
       "photo": "https://via.placeholder.com/300",
-      "schedule": "Seg a Sex - 14:00 às 16:00"
+      "schedule": "Seg a Sex - 09:00 às 11:59"
+    },
+    {
+      "name": "Poderosa",
+      "program": "Programa Poderosa é Show",
+      "photo": "https://via.placeholder.com/300",
+      "schedule": "Seg a Sex - 13:00 às 15:59"
     }
   ],
 
