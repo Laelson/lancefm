@@ -64,13 +64,13 @@
   "presenters": [
     {
       "name": "Fábio Jr.",
-      "program": "Programa Café Com Notícias.",
+      "program": "Programa Café Com Notícias",
       "photo": "https://raw.githubusercontent.com/Laelson/lancefm/refs/heads/main/fabio.jpeg",
       "schedule": "Seg a Sex - 07:00 às 08:59"
     },
     {
       "name": "Dr Frederico Micheletto",
-      "program": "Programa Café Com Notícias.",
+      "program": "Programa Café Com Notícias",
       "photo": "https://raw.githubusercontent.com/Laelson/lancefm/refs/heads/main/fred.jpeg",
       "schedule": "Seg a Sex - 07:00 às 08:59"
     },
@@ -93,7 +93,7 @@
       "day": "Segunda",
       "program": "Madrugada Lance",
       "time": "00:00 - 06:59",
-      "host": "Automático."
+      "host": "Automático"
     },
     {
       "day": "Segunda",
@@ -123,7 +123,7 @@
       "day": "Segunda",
       "program": "Programa Sertanejo",
       "time": "16:00 - 18:59",
-      "host": "Automático",
+      "host": "Automático"
     },
     {
       "day": "Segunda",
@@ -162,4 +162,5 @@
     "fields": ["title", "artist"]
   }
 }
+
 
